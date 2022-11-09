@@ -234,3 +234,14 @@ Sets the corresponding cart's status from false to true.
 As can be seen, the cart_status of the cart with the id of 1 changed from false to true.
 
 ![Checkout Data1](Pictures/CheckoutData1.PNG)
+
+# Running the Project
+
+### Prerequisites
+
+- Java version 11 or higher
+- Java compiler
+- PostgreSQL
+- Databases created named fibainventory, fibashopping in PostgreSQL
+
+After downloading the three different project flies; commerce, shopping and inventory, each project must be running to request any api calls from the commmerce application.
